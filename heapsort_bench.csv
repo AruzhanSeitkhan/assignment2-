@@ -1,0 +1,5 @@
+n,median_time_ms,comparisons,swaps,sorted
+100,0,1268,584,true
+1000,0,19157,9078,true
+10000,1,258350,124175,true
+100000,12,3250197,1575098,true
